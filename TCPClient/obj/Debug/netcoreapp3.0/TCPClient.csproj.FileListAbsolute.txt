@@ -1,0 +1,11 @@
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient.deps.json
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient.runtimeconfig.json
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient.runtimeconfig.dev.json
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient.dll
+/Users/user/Projects/TCPClient/TCPClient/bin/Debug/netcoreapp3.0/TCPClient.pdb
+/Users/user/Projects/TCPClient/TCPClient/obj/Debug/netcoreapp3.0/TCPClient.csprojAssemblyReference.cache
+/Users/user/Projects/TCPClient/TCPClient/obj/Debug/netcoreapp3.0/TCPClient.AssemblyInfoInputs.cache
+/Users/user/Projects/TCPClient/TCPClient/obj/Debug/netcoreapp3.0/TCPClient.AssemblyInfo.cs
+/Users/user/Projects/TCPClient/TCPClient/obj/Debug/netcoreapp3.0/TCPClient.dll
+/Users/user/Projects/TCPClient/TCPClient/obj/Debug/netcoreapp3.0/TCPClient.pdb
